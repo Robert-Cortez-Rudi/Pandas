@@ -7,7 +7,8 @@ dados = {
     "Autor": ["Stephen King", "Stephen King", "Stephen King", "Stephen King", "Stephen King"],
     "Genero": ["Terror", "Terror", "Terror", "Terror", "Terror"],
     "Ano": [1986, 2018, 1987, 2019, 2015],
-    "Preço": [120.00, 80.00, 75.00, 90.00, 65.00]
+    "Preço": [120.00, 80.00, 75.00, 90.00, 65.00],
+    "Quantidade": [10, 20, 15, 25, 30]
 }
 
 # 2 - Criando um dataframe
